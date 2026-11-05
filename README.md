@@ -28,9 +28,9 @@
 
 # | \*\*`prodigy-task-05-traffic-accident/`\*\* | Traffic Accident Analysis | Identifying patterns related to road conditions, weather, and time of day, and visualizing accident hotspots. | Python, Pandas, Matplotlib, Seaborn |
 
+# | \*\*`bharat-task-01-sms-detection/`** | SMS Spam Detection (Bharat Intern) | Natural Language Processing (NLP) classification model to detect and filter spam messages. | Python, Scikit-learn, NLP, Pandas |
 
-|**`bharat-task-01-sms-detection/`** | SMS Spam Detection (Bharat Intern) | Natural Language Processing (NLP) classification model to detect and filter spam messages. | Python, Scikit-learn, NLP, Pandas |
-
+# | \*\*`capstone-movie-rating-prediction/`\*\* | Movie Rating Prediction (Coursera Capstone) | Machine learning model to predict movie ratings, serving as the culmination of the Machine Learning Specialization. | Python, Scikit-learn, Pandas, Machine Learning |
 # 
 
 # \---
